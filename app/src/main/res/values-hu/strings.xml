@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">Start game</string>
+    <string name="continuegame">Continue</string>
+    <string name="highscores">Highscores</string>
+    <string name="title" />
+    <string name="join_the_neighbours_and_get_to" />
+    <string name="secret_tile" />
+    <string name="language">Language</string>
+    <string name="exitstring">Exit</string>
+</resources>

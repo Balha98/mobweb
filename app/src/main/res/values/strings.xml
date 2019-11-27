@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">haziujuj</string>
+    <string name="start_game">Start game</string>
+    <string name="continuegame">Continue</string>
+    <string name="highscores">Highscores</string>
+    <string name="_2048" translatable="false">2048 </string>
+    <string name="title"> Neighbours </string>
+    <string name="join_the_neighbours_and_get_to"> Join the neighbours and get to </string>
+    <string name="secret_tile"> The secret tile </string>
+    <string name="language">Language</string>
+    <string name="exitstring">Exit</string>
+</resources>
